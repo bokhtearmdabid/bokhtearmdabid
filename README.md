@@ -104,12 +104,33 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abix404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abix404&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  
+  <!-- Main Stats Row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abix404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abix404&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6e76&currStreakLabel=38bdae" alt="GitHub Streak" height="180" />
+  
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abix404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <!-- Languages and Activity -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/ username=abix404&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abix404&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff6e76" alt="Contribution Graph" height="180" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=abix404&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  
+</div>
+
+<div align="center">
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=abix404&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
 </div>
 
 <br>
@@ -144,7 +165,7 @@ me.say_hi()
   <a href="https://github.com/abix404" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="bd.linkedin.com/in/bokhtear-md-abid-928459136" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
