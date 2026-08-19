@@ -75,18 +75,17 @@ me.say_hi()
       <br>Figma
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=ps" width="55" height="55" alt="Photoshop" />
-      <br>Photoshop
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+      <br>Next.js
     </td>
     <td align="center" width="140">
-      <img src="https://skillicons.dev/icons?i=ai" width="55" height="55" alt="Illustrator" />
-      <br>Illustrator
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+      <br>MongoDB
     </td>
   </tr>
 </table>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,mysql,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,mysql,androidstudio,ps,ai&theme=dark" />
 </div>
 
 <br>
@@ -98,19 +97,6 @@ me.say_hi()
 - 📊 Advanced Algorithms and Data Structures
 - 🌐 Open Source Contributions
 - 🎨 UI/UX Design Principles
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bokhtearmdabid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=bokhtearmdabid&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bokhtearmdabid&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
 
 <br>
 
