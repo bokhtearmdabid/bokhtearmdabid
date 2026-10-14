@@ -10,7 +10,7 @@
 <h3 align="center">University of Asia Pacific</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bokhtearmdabid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://hits.sh/github.com/bokhtearmdabid.svg?label=Profile%20views&color=0e75b6&extraCount=1250" alt="profile views" />
   <img src="https://img.shields.io/github/followers/bokhtearmdabid?label=Followers&style=social" alt="followers" />
 </p>
 
